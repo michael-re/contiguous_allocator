@@ -1,0 +1,16 @@
+A  A  100  F
+A  X  100  F
+A  B  100  F
+A  X  200  F
+A  C   50  F
+A  X  150  F
+A  D  50   F
+F  X
+S
+A  E  250  F
+A  F  150  F
+A  G   30  B
+A  H   10  W
+S
+C
+E

@@ -1,0 +1,13 @@
+A  A  100  F
+A  X  100  F
+A  B  100  F
+A  X  200  F
+A  C   50  F
+A  X  150  F
+A  D   50  F
+S
+F  X
+S
+C
+S
+E
