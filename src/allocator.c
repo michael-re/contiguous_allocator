@@ -16,8 +16,8 @@ int main(int argc, char *argv[])
     if (!size) return EXIT_FAILURE;
 
     memory *pool = new_memory_pool(size);
-    char     *line = NULL;
-    int       run  = 1;
+    char   *line = NULL;
+    int     run  = 1;
 
     while (run)
     {
